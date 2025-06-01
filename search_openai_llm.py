@@ -1,3 +1,6 @@
+print("""
+Welcome to the Legal RAG System!\nType your legal research question below.\nType 'quit' or 'exit' to leave.\n""")
+
 import os
 from dotenv import load_dotenv
 import openai
@@ -46,29 +49,29 @@ Answer with sources:
     )
     return response.choices[0].message.content.strip()
 
-query = input("Enter the query you want to search: ")
-query_embedding = get_embedding(query).reshape(1, -1)
-
 embeddings = np.load(EMBEDDINGS_FILE)
 with open(METADATA_FILE, "r") as f:
     metadata = [line.strip() for line in f]
 
-similarities = cosine_similarity(query_embedding, embeddings)[0]
-top_n = 5
-top_indices = similarities.argsort()[-top_n:][::-1]
-
-top_chunks = []
-top_sources = []
-for i in top_indices:
-    meta = metadata[i]
-    fname, chunk_id = meta.split("||")
-    chunk_idx = int(chunk_id.replace("chunk_", ""))
-    chunk_text = get_chunk_from_file(fname, chunk_idx)
-    top_chunks.append(chunk_text)
-    top_sources.append(f"{fname} [{chunk_id}]")
-
-answer = ask_llm_with_sources(query, top_chunks, top_sources)
-print("\n🧠 LLM Response:\n", answer)
-
-for idx, (chunk, source) in enumerate(zip(top_chunks, top_sources), 1):
-    print(f"\n[{idx}] {source}\n{'-'*40}\n{chunk[:500]}\n...")
+while True:
+    query = input("Enter the query you want to search: ").strip()
+    if query.lower() in {"quit", "exit"}:
+        print("Goodbye!")
+        break
+    query_embedding = get_embedding(query).reshape(1, -1)
+    similarities = cosine_similarity(query_embedding, embeddings)[0]
+    top_n = 5
+    top_indices = similarities.argsort()[-top_n:][::-1]
+    top_chunks = []
+    top_sources = []
+    for i in top_indices:
+        meta = metadata[i]
+        fname, chunk_id = meta.split("||")
+        chunk_idx = int(chunk_id.replace("chunk_", ""))
+        chunk_text = get_chunk_from_file(fname, chunk_idx)
+        top_chunks.append(chunk_text)
+        top_sources.append(f"{fname} [{chunk_id}]")
+    answer = ask_llm_with_sources(query, top_chunks, top_sources)
+    print("\n🧠 LLM Response:\n", answer)
+    for idx, (chunk, source) in enumerate(zip(top_chunks, top_sources), 1):
+        print(f"\n[{idx}] {source}\n{'-'*40}\n{chunk[:500]}\n...")
