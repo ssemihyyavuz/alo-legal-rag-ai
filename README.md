@@ -6,7 +6,8 @@ This project implements a **Retrieval Augmented Generation (RAG)** pipeline desi
 The system ingests, processes, and stores legal documents, then uses OpenAI LLMs to answer complex legal queries with evidence-based, source-attributed responses.
 
 ---
-
+[![Watch the demo](https://img.shields.io/badge/▶️ Watch%20Demo-blue)](https://drive.google.com/file/d/1NwDWdoKRr25SxzzHoUc5qUu2EHI9G5oS/view?usp=sharing)
+---
 ## System Architecture & Design
 
 ### 1. Data Ingestion & Filtering
