@@ -46,7 +46,7 @@ Answer with sources:
     )
     return response.choices[0].message.content.strip()
 
-query = input("Aramak istediğiniz soruyu/metni girin: ")
+query = input("Enter the query you want to search: ")
 query_embedding = get_embedding(query).reshape(1, -1)
 
 embeddings = np.load(EMBEDDINGS_FILE)
