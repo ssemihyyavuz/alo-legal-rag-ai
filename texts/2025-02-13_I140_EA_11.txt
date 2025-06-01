@@ -1,0 +1,341 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: FEB. 13, 2025 
+In Re: 35932700 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a senior security engineer, seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+The Director ofthe Nebraska Service Center denied the petition, concluding the Petitioner did not satisfy 
+at least three ofthe initial evidentiary criteria. The Director dismissed a subsequently filed motion. 1 The 
+matter is now before us on appeal. 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203 (b)( 1)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) 
+the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) 
+the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+1 The Petitioner incorrectly asserts that we dismissed his motion throughout his brief. The record reflects that the Director, 
+the official who had jurisdiction, issued both the initial and motion decisions. See 8 C.F.R. § 103.S(a)(l)(ii). We have 
+jurisdiction over the appeal and will review the record for the first time on appeal. See 8 C.F.R. § 103.3(a)(iv). 
+(iii) 
+the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of achievements in the field through a one-time achievement (that is, a 
+major, internationally recognized award) or qualifying documentation that meets at least three of the 
+ten categories listed at 8 C.F.R. § 204.5(h)(3)(i) - (x) (including items such as awards, published 
+material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+Because the Petitioner has not claimed or established his receipt of a major, internationally recognized 
+award, he must satisfy at least three of the alternate regulatory criteria under 8 C.F.R. § 204.5(3)(i)­
+(x). The Director determined the Petitioner met only two (judging under 8 C.F.R. § 204.5(h)(3)(iv) 
+and high salary under 8 C.F.R. § 204.5(h)(3)(ix)) ofthe seven claimed evidentiary criteria. On appeal, 
+the Petitioner maintains his qualification for five additional criteria. 2 
+A. Awards 
+The regulation at 8 C.F.R. § 204.5(h)(3)(i) requires "[d]ocumentation of the alien's receipt oflesser 
+nationally or internationally recognized prizes or awards for excellence in the field of endeavor." The 
+Petitioner argues eligibility for this criterion based on his receipt ofl 
+in 2013. As 
+described in a supporting letter from A-S-, co-founder ofl 
+IConference: 
+I 
+Iis an IT security conference in multiple countries which is organized and 
+owned byl 
+I It showcases top professionals and the new 
+frontier of offensive and defensive secure technology, prototypes, exhibitions, 
+seminars, workshops, and networking within the cohesive IT security ecosystem. 
+welcomes thousands of CXOs, IT security researchers, experts at major 
+IT organizations, senior government officials, and other SMEs each year which also 
+features national-level skill challenges, including 
+as 
+2 Any ground ofineligibility that is not raised on appeal is waived. See Matter ofO-R-E-, 28 l&N Dec. 330, 336 n.5 (BIA 
+2021) (citing Matter ofR-A-M-, 25 l&N Dec. 657,658 n.2 (BIA 2012)). 
+2 
+well as the _____ 
+competition, the particular venue of [the Petitioner's] 
+prized technical performance in 2013. 
+challenges contestants to identify IT security vulnerabilities 
+regarding software, or social media, or online security risks under a high-pressure time 
+hackathon environment. This 36-hour contest also enlisted respected IT security 
+experts to evaluate the technical complexity and significance of vulnerabilities as 
+presented by competing teams to be awarded and recognized for their merits. 
+[The Petitioner] was an awarded winner of 
+which in 2013 was 
+sponsored by Red Bull, which notably profiled the rigorous 36-hour challenge, 
+picturing [the Petitioner] and the impressive outcomes of this technical competition as 
+determined by I 
+I panel of experts to determine the prize winners. 
+[The 
+Petitioner] with his teammate ... were awarded for uncovering a I 
+Isecurity 
+vulnerability. 
+In addition, the Petitioner provided screenshots from redbull.com advertising 
+______ 
+I 
+12013," screenshots from "recogniz[ing] 
+the security researchers who 
+have helped make I 
+Ionline services safer by finding and reporting security vulnerabilities," 
+and screenshots from listing 
+the Petitioner as a winner ofthe 
+2013 as part of his speaker biography. 
+Although he established his receipt of the award, the Petitioner did not show ______ 
+national or international recognition for excellence in the field. 3 The evidence reflects background 
+information about the contest, including A-S-'s letter, rather than demonstrating the national or 
+international recognition for excellence in the field of 
+Moreover, while the 
+Petitioner discovered a vulnerability withl 
+lonline services, as well as the event sponsored by 
+Red Bull, the Petitioner did not show the recognition of the award in the field beyond I 
+I 
+Simply presenting an award garnered in the field is insufficient 
+to meet this criterion without establishing the national or international recognition for excellence in 
+the field of such award. 
+Accordingly, the Petitioner did not demonstrate he satisfies this criterion. 
+B. Memberships 
+The Petitioner claims eligibility for this criterion based on his senior membership with the Institute of 
+Electrical and Electronics Engineers (IEEE). The regulation at 8 C.F.R. § 204.5(h)(3)(ii) requires 
+"[d]ocumentation of the alien's membership in associations in the field for which classification is 
+sought, which require outstanding achievements of their members, as judged by recognized national 
+or international experts in their disciplines or fields." USCIS determines if the association for which 
+the person claims membership requires that members have outstanding achievements in the field as 
+3 See generally 6 USCIS Policy Manual F.2(B)(l), https://www.uscis.gov/policymanual (instructing that USCIS 
+determines whether the award is a lesser nationally or internationally recognized prize or award which the person received 
+for excellence in the field of endeavor). 
+3 
+judged by recognized experts in that field. 4 
+The pet1t10ner must show that membership in the 
+association requires outstanding achievements in the field for which classification is sought, as judged 
+by recognized national or international experts. 5 
+The Petitioner presented a congratulatory letter from K-J-R-L-, IEEE president, indicating that"[o ]nly 
+10% ofIEEE's more than 400,000 members hold this grade, which requires extensive experience, and 
+reflects professional maturity and documented achievements of significance." According to the 
+submitted constitution and bylaws, senior membership requires: 1) candidates shall be engineers, 
+scientists, educators, technical executives, or originators in IEEE-designated fields, 2) candidates shall 
+have been in professional practice for at least ten years, 3) candidates shall have shown significant 
+performance over a period ofat least five ofthose years, and 4) candidates must supply three references 
+from current IEEE members holding the grade of Fellow, Senior Member, or Honorary Member. In 
+further explaining five years of significant performance, the constitution and bylaws indicate: 
+"Significant performance" does not require special awards, patents, or other 
+sophisticated technical accomplishment. Indications of significant performance are 
+substantial job responsibilities such as team leader, task supervisor, engineer in charge 
+of a program or project; engineer or scientist performing research with some measure 
+of success (papers); or faculty developing and teaching courses with research and 
+publications, as well as the following: 
+• 
+Substantial engineering, responsibility or achievement. 
+• 
+Publication or engineering or scientific papers, books, or inventions. 
+• 
+Technical direction or management of important scientific or engineering work 
+with evidence of accomplishment. 
+• 
+Recognized contributions to the welfare of the scientific or engineering 
+profession. 
+• 
+Development or furtherance of important scientific or engineering courses that 
+fall within the IEEE designated fields of interest. 
+• 
+Contributions equivalent to those ofthe above in such areas as technical editing, 
+patent prosecution or patent law, provided these contributions serve to advance 
+progress substantially in IEEE designated fields. 
+The Petitioner has not shown the requirements for senior membership with IEEE reflect outstanding 
+achievements. Specifically, the Petitioner did not establish that attaining a particular professional 
+occupation, accumulating years of experience, and obtaining reference letters from other senior 
+members represent outstanding achievements. 6 Similarly, the Petitioner has not demonstrated that the 
+"significant performance" clause necessitates outstanding achievements. For example, the Petitioner 
+4 See generally 6 USCTS Policy Manual, supra, at F.2(B)(l ). 
+5 Id. 
+6 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l) (indicating that relevant factors that may lead to a conclusion 
+that the person's membership in the association(s) was not based on outstanding achievements in the field include, but are 
+not limited to, instances where the person's membership was based solely on the following factors (by themselves or in 
+the aggregate): a level of education or years of experience in a particular field; the payment of a fee or by subscribing to 
+an association's publications; and a requirement, compulsory or otherwise, for employment in certain occupations, as 
+commonly seen with union membership or guild affiliation for actors). 
+4 
+did not establish that "substantial job responsibilities," "performing research with some measure of 
+success," or "faculty developing and teaching courses with research and publications" signifies 
+outstanding achievements consistent with this regulatory criterion. Without further explanation and 
+information relating to some of the other examples, the Petitioner has not established that senior 
+membership with IEEE requires outstanding achievements. 7 
+Moreover, the Petitioner did not demonstrate that recognized national or international experts judge 
+senior membership for IEEE. The Petitioner's initial cover letter claimed: 
+IEEE Senior Members are accepted after objective and qualitative outstanding merits 
+by IEEE leadership whose bylaws also explicitly require independent validation by 3 
+high-level IEEE references, [ ] in a multi-stage review - which we note parallel's 
+USCIS' two-part review of extraordinary ability - which concludes with a totality 
+decision by IEEE as to one's outstanding merits to gain IEEE Senior Membership. 
+[The Petitioner's] Senior Member application material identifies three recognized 
+experts at IEEE ..., who evaluated [the Petitioner'] outstanding achievements through 
+significant career performance, outcomes, and industry recognition, the basis of his 
+membership. 
+Here, the Petitioner conflates IEEE's reference requirement with the judging requirement under 8 
+C.F.R. § 204.5(h)(3)(ii). IEEE requires the submission ofthree references from current IEEE members 
+holding the grade of Fellow, Senior Member, or Honorary Member, which is different than recognized 
+national or international experts in their disciplines or fields judging membership, as required under 
+the regulation. While the Petitioner's senior membership application shows his references, the 
+Petitioner did not establish that these individuals actually judged his senior membership, nor did he 
+demonstrate that IEEE requires national or international experts to judge senior membership. 8 
+For the reasons discussed above, the Petitioner did not establish he fulfills this criterion. 
+C. Published Materials 
+The regulation at 8 C.F.R. § 204.5(h)(3)(iii) requires "[p]]ublished material about the alien in 
+professional or major trade publications or other major media, relating to the alien's work in the field 
+for which classification is sought. Such evidence shall include the title, date, and author of the 
+material, and any necessary translation." 
+The Petitioner claims eligibility for this criterion based on an article, 
+I 
+I dated on I 
+I 2017, and posted on medicaleconomics.com. 
+However, the 
+article does not include an author, as required under 8 C.F.R. § 204.5(h)(3)(iii). Although the 
+7 We note that we have recognized fellow membership with IEEE to meet this regulatory criterion. IEEE fellow 
+membership requires, in part, that a nominee have "accomplishments that have contributed importantly to the advancement 
+or application or engineering, science and technology, bringing the realization of significant value to society." See IEEE's 
+Steps to Become an IEEE Fellow, www.ieee.org. 
+8 Compare to the fellow level, which nominations are judged by an IEEE council of experts and a committee of current 
+IEEE fellows, www.ieee.org. 
+5 
+Petitioner provided an editorial board screenshot for the website, the Petitioner did not show who 
+authored the material. Because the regulation requires the Petitioner to include the author of the 
+material, the Petitioner did not establish eligibility for this portion of the criterion. 
+Moreover, the article does not reflect published material about the Petitioner relating to his work. 
+Instead, the article is about hackers and medical practices, in which the Petitioner supplied a quote for 
+article's topic. The article does not report, discuss, or cover him or otherwise reflect published material 
+about him. The plain language of the regulation at 8 C.F.R. § 204.5(h)(3)(iii) requires "[p]]ublished 
+material about the alien."9 We consider the term "published material about the alien" using its 
+ordinary, common meaning. 
+See, e.g., Perrin v. United States, 444 U.S. 37, 42 (1979) ("A 
+fundamental canon ofstatutory construction is that, unless otherwise defined, words will be interpreted 
+as taking their ordinary, contemporary, common meaning ...."). In this case, the article his about 
+hacking into medical practices rather than about the Petitioner and his work. See, e.g., Negro-Plwnpe 
+v. Okin, 2:07-CV-820-ECR-RJJ at *1, *7 (D. Nev. Sept. 8, 2008) (upholding a finding that articles 
+regarding a show are not about the actor). 
+As such, the Petitioner did not show he meets this criterion. 
+D. Scholarly Articles 
+The regulation at 8 C.F.R. § 204.5(h)(3)(vi) requires "[e]vidence of the alien's authorship of scholarly 
+articles in the field, in professional or major trade publications or other major media." The Petitioner 
+argues that his presentations, such as I 
+12017," qualify for this criterion. Examples 
+of scholarly article authorship include publications in professionally-relevant peer-reviewed journals 
+and published conference presentations at conferences. 10 
+In this case, the Petitioner did not demonstrate that his presentations were actually published in 
+publications or other major media. Specifically, the Petitioner submitted screenshots of synopses or 
+announcements of his presentations without establishing their publications. 
+The Petitioner, for 
+example, did not provide transcripts of his presentations and show they were published in professional 
+or major trade material or posted in major media. Moreover, although some ofthe screenshots contain 
+links to the presentations, the Petitioner did not offer the actual material or transcripts from the links. 
+In addition, the Petitioner submitted examples of others referencing his presentations in their own 
+works. However, without documentation of his actual published presentations, the Petitioner did not 
+show that his talks and speeches qualify as evidence of his authorship of scholarly articles in 
+professional or major trade publications or other major media consistent with this regulatory criterion. 
+Accordingly, the Petitioner did not establish he satisfies this criterion. 
+9 See also generally 6 USCIS Policy Manual, supra, at F.2(B)(l) (indicating that USCIS determines whether the published 
+material was related to the person and the person's specific work in the field for which classification is sought). 
+10 See also generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+6 
+E. Leading or Critical Roles 
+The regulation at 8 C.F.R. § 204.5(h)(3)(viii) requires "[e]vidence that the alien has performed in a 
+leading or critical role for organizations or establishments that have a distinguished reputation." For 
+a leading role, officers look at whether the evidence establishes that the person is (or was) a leader 
+within the organization or establishment or a division or department thereof 11 For a critical role, 
+officers look at whether the evidence establishes that the person has contributed in a way that is of 
+significant importance to the outcome of the organization or establishment's activities or those of a 
+division or department of the organization or establishment. 12 
+The Petitioner claims eligibility for his criterion based on his leading and critical roles as a senior 
+security specialist at ________ and references a letter from M-M-, product security 
+director at D However, the letter does not contain detailed, specific information evidencing the 
+Petitioner's leading or critical role. 
+Instead, the letter makes broad statements without further 
+elaborating and explaining how the Petitioner performed in a leading or critical role, discussed further 
+below. 
+At the outset, the letter briefly indicates the Petitioner's "leadership researching threats" and "critical 
+leadership." However, M-M- does not further discuss or indicate how the Petitioner's role as a senior 
+security specialist somehow resulted in the Petitioner serving in a leading role or performing in a 
+leadership capacity. 
+Likewise, M-M- made general claims regarding the Petitioner's critical roles without justifying her 
+assertions. For instance, the letter claimed that the Petitioner "was key to ensuring medical security 
+by conducting intensive review and penetration testing," "[h]]is extraordinary ability for addressing 
+security issues has materially supported I 
+Iprosperity and the scaling of its innovations in health­
+tech," and "[the Petitioner's] impactfol work has materially elevated and is still instructive to global 
+peers, for its vital importance on personal human levels and its large-scale security infrastructure 
+context." M-M- did not explain the effect of the Petitioner's review and penetration testing, how the 
+Petitioner has materially supported prosperity, or the significance of the Petitioner's work on 
+personal human levels and large-scale security infrastructure. 
+Without specific, detailed information, M-M-'s general letter does not show the Petitioner's leading 
+or critical role. 13 Moreover, Repeating the language of the statute or regulations does not satisfy the 
+petitioner's burden of proof. Fedin Bros. Co., Ltd. v. Sava, 724 F. Supp. 1103, 1108 (E.D.N.Y. 1989), 
+affd, 905 F. 2d 41 (2d. Cir. 1990); Avyr Associates, Inc. v. Meissner, 1997 WL 188942 at *5 
+(S.D.N.Y.). 
+For these reasons, the Petitioner did not show he fulfills this criterion. 
+11 See also generally 6 USCIS Policy Manual, supra, at F.2(B)(l ). 
+12 Id. 
+13 See also generally 6 USCIS Policy Manual, supra, at F.2(B)(l) (indicating that this is one criterion where letters from 
+persons with knowledge of the significance of the person's leading or critical role can be particularly helpful to officers in 
+making this determination, so long as the letters contain detailed and probative information that specifically addresses how 
+the person's role for the organization, establishment, division, or department was leading or critical). 
+7 
+III. CONCLUSION 
+The Petitioner did not establish eligibility for any of the categories of evidence discussed above. 
+Because the Petitioner cannot fulfill the initial evidentiary requirement of three under 8 C.F.R. 
+§ 204.5(h)(3), we need not decide on the Director's favorable conclusions for the judging and high 
+salary criteria. We also need not provide the type offinal merits determination referenced in Kazarian, 
+596 F.3d at 1119-20. Accordingly, we reserve these issues. 14 
+Nevertheless, we have reviewed the record in the aggregate, concluding it does not support a 
+conclusion that the Petitioner has established the acclaim and recognition required for the classification 
+sought. The Petitioner seeks a highly restrictive visa classification, intended for individuals already 
+at the top of their respective fields, rather than those progressing toward the top. Matter ofPrice, 20 
+I&N Dec. 953, 954 (Assoc. Comm'r 1994) (concluding that even major league level athletes do not 
+automatically meet the statutory standards for classification as an individual of "extraordinary 
+ability,"); Visinscaia, 4 F. Supp. 3d at 131 (internal quotation marks omitted) (finding that the 
+extraordinary ability designation is "extremely restrictive by design,"); Hamal v. Dep 't ofHomeland 
+Sec. (Hamal II), No. 19-cv-2534, 2021 WL 2338316, at *5 (D.D.C. June 8, 2021), aff'd, 2023 WL 
+1156801 (D.C. Cir. Jan. 31, 2023) (determining that EB-1 visas are "reserved for a very small 
+percentage of prospective immigrants"). See also Hamal v. Dep 't ofHomeland Sec. (Hamal I), No. 
+19-cv-2534, 2020 WL 2934954, at* 1 (D.D.C. June 3, 2020) ( citing Kazarian, 596 at 1122 (upholding 
+denial of petition of a published theoretical physicist specializing in non-Einsteinian theories of 
+gravitation) (stating that "[c]ourts have found that even highly accomplished individuals fail to win 
+this designation")); Lee v. Ziglar, 237 F. Supp. 2d 914, 918 (N.D. Ill. 2002) (finding that "arguably 
+one of the most famous baseball players in Korean history" did not qualify for visa as a baseball 
+coach). Here, the Petitioner has not shown the significance of his work is indicative of the required 
+sustained national or international acclaim or it is consistent with a "career of acclaimed work in the 
+field" as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 
+203(b)(l)(A) of the Act. Moreover, the record does not otherwise demonstrate the Petitioner has 
+garnered national or international acclaim in the field, and he is one of the small percentage who has 
+risen to the very top of the field of endeavor. See section 203(b)(l)(A) of the Act and 8 C.F.R. 
+§ 204.5(h)(2). The record does not contain sufficient evidence establishing the Petitioner among the 
+upper echelon in his field. 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: 
+The appeal is dismissed. 
+14 See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies are not required to make "purely 
+advisory findings" on issues that are unnecessary to the ultimate decision). 
+8 

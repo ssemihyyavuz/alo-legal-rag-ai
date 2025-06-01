@@ -1,0 +1,233 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: FEB. 13, 2025 
+In Re: 36121177 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a senior member technical staff information security engineer, seeks classification as an 
+alien of extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 
+U.S.C. § 1153(b )( 1)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and whose 
+achievements have been recognized in their field through extensive documentation. 
+The Director ofthe Nebraska Service Center denied the petition, concluding the Petitioner did not satisfy 
+at least three ofthe initial evidentiary criteria. The matter is now before us on appeal. 8 C.F.R. § 103.3. 
+The Petitioner bears the burden of proof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) 
+the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) 
+the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) 
+the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of achievements in the field through a one-time achievement (that is, a 
+major, internationally recognized award) or qualifying documentation that meets at least three of the 
+ten categories listed at 8 C.F.R. § 204.5(h)(3)(i) - (x) (including items such as awards, published 
+material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+Because the Petitioner has not claimed or established his receipt of a major, internationally recognized 
+award, he must satisfy at least three of the alternate regulatory criteria under 8 C.F.R. § 204.5(3)(i)­
+(x). The Director determined the Petitioner met only two (judging under 8 C.F.R. § 204.5(h)(3)(iv) 
+and scholarly articles under 8 C.F.R. § 204.5(h)(3)(vi)) of the seven claimed evidentiary criteria. On 
+appeal, the Petitioner maintains his qualification for three additional criteria. 1 
+A. Awards 
+The regulation at 8 C.F.R. § 204.5(h)(3)(i) requires "[d]ocumentation of the alien's receipt oflesser 
+nationally or internationally recognized prizes or awards for excellence in the field of endeavor." 
+USCIS first determines if the person was the recipient of prizes or awards, and then decides whether 
+the award is a lesser nationally or internationally recognized prize or award which the person received 
+for excellence in the field of endeavor. 2 
+The Petitioner argues eligibility for this criterion based on being "placed on 
+'The Honor 
+Roll' ________ 
+in the year 2016 for reporting a Security Vulnerability on I 
+I 
+3 In support of this claim, the Petitioner references a letter from C-A-, an 
+I 
+I
+independent security researcher and contributor to I 
+Iwho stated: 
+While all the security vulnerabilities ( CVEs) reported by [ the Petitioner] have their own 
+security implications and high impact, I want to comment on the critically of CVE-
+1 
+for which [the Petitioner] was placed on 1 
+1 Honor Roll for 
+Security Researchers. [The Petitioner] reported a security vulnerability inl 
+I 
+I 
+Iproduct, for which this CVE was assigned. The vulnerability was categorized 
+as a content spoofing vulnerability by I 
+I There are multiple reasons that make 
+1 Any ground ofineligibility that is not raised on appeal is waived. See Matter ofO-R-E-, 28 T&N Dec. 330. 336 n.5 (BIA 
+2021) (citing Matter ofR-A-M-, 25 I&N Dec. 657,658 n.2 (BIA 2012)). 
+2 See generally 6 USCIS Policy Manual F.2(B)(l), https://www.uscis.gov/policy-manual. 
+3 See letter from M-E-. senior program manager for I 
+ISecurity Response Center. 
+2 
+this security finding unique and why 
+has 
+placed [the Petitioner] on the Honor 
+Roll for this finding. 
+Although the evidence reflects why I 
+Iplaced the Petitioner on its "Honor Roll," the Petitioner 
+did not demonstrate the honor's significance or relevance in the field so to show that it qualifies as a 
+nationally or internationally recognized prize or award for excellence in the field. Moreover, the 
+Petitioner did not establish the national or internation recognition of the honor for excellence in field 
+outside of 
+Without further information or evidence, the Petitioner did not demonstrate that 
+"Honor Roll" is tantamount to a nationally or internationally recognized prize or award 
+for excellence in the field consistent with the regulation at 8 C.F.R. § 204.5(h)(3)(i). 
+Accordingly, the Petitioner did not demonstrate he satisfies this criterion. 
+B. Original Contributions 
+The regulation at 8 C.F.R. § 204.5(h)(3)(v) requires "[e]vidence of the alien's original scientific, 
+scholarly, artistic, athletic, or business-related contributions ofmajor significance in the field." USCIS 
+first determines whether the person has made original contributions in the field, and then decides 
+whether the original contributions are of major significance to the field. 4 Examples of relevant 
+evidence include, but are not limited to: published materials about the significance of the person's 
+original work; testimonials, letters, and affidavits about the persons original work; documentation that 
+the person's original work was cited at a level indicative of major significance in the field; and patents 
+or licenses deriving from the person's work or evidence of commercial use of the person's work. 5 
+The Petitioner argues: 
+has utilized the petitioner's 
+publicly available research in its patent findings, which reflets the high value of the 
+petitioner's work but does not establish an employment relationship. Citations in 
+patents are a recognition of an individual's expertise and contribution to the field, but 
+they do not indicate that the individual works for or is employed by the company filing 
+the patent. 
+The record reflects the Petitioner provided evidence showing that his 2010 conference paper was 
+referenced by in securing a 2016 U.S. patent. However, the Petitioner did not show the impact 
+or effect of the patent in the field in order to demonstrate that his paper or research has been of major 
+significance in the field. Although the reference and application by 
+indicates the originality of 
+the Petitioner's work, it does not automatically establish a majorly significant contribution in the field 
+consistent with this regulatory criterion. Evidence that the person developed a patented technology 
+that has attracted significant attention or commercialization may establish the significance of the 
+person's original contribution in the field. 6 Here, the Petitioner did not supplement the record showing 
+if 
+developed any successful commercialization of technology, products, or other services from 
+4 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+5 Id. 
+6 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+3 
+the patent. 7 Without further information or evidence, the Petitioner did not demonstrate that the 
+citation or usage of his work inl 
+Ipatent represents an original contribution of major significance 
+in the field. 
+Accordingly, the Petitioner did not establish he fulfills this criterion. 
+C. High Salary 
+The regulation at 8 C.F.R. § 204.5(h)(3)(ix) requires "[e]vidence that the alien has commanded a high 
+salary or other significantly high remuneration for services, in relation to others in the field." USCIS 
+determines whether the person's salary or remuneration is high relative to the compensation paid to 
+others working in the field. 8 
+At the outset, the Petitioner provides new evidence on appeal. Because the Petitioner was put on 
+notice and given a reasonable opportunity to provide this evidence, we will not consider it for the first 
+time on appeal. See 8 C.F.R. § 103.2(b )(11) (requiring all requested evidence be submitted together 
+at one time); Matter ofSoriano, 19 I&N Dec. 764, 766 (BIA 1988) ( declining to consider new evidence 
+submitted on appeal because "the petitioner was put on notice of the required evidence and given a 
+reasonable opportunity to provide it for the record before the denial"). 
+The Petitioner argues his eligibility for this criterion based on his salary as a senior member technical 
+staff information security engineer. 9 As evidence comparing his salary in relation to others in the 
+field, the Petitioner submitted screenshots from salary.corn, including the salaries and positions for 
+Level 1-V "Information Security Analyst." In addition, the Petitioner offered letters from J-C- and K­
+G- opining that the Petitioner earns among the "top level" for "a Level V Information Security 
+Analyst." However, the Petitioner did not provide the proper comparable salary information for his 
+particular occupation. Again, the Petitioner is a senior member technical staff information security 
+engineer rather than a level V information security analyst. Further, the Petitioner did not demonstrate 
+that a senior member technical staff information security engineer is comparable to a level V 
+information security analyst. In fact, the Petitioner's position as a senior member technical staff 
+information security engineer suggests a higher job classification than a level V information security 
+analyst. "While they share many skills, experiences, education and sometimes even projects, there are 
+some key differences between a security engineer and a security analyst." 10 Examples include security 
+engineers focusing on designing and implementing their systems and security analysts monitoring the 
+system once it's in place, and while security analysts monitor the system that security engineers create, 
+they are not responsible for its compliance with government regulations. 11 
+7 Although not addressed on appeaL the record also contains evidence of the same 2010 conference paper referenced by 
+___________ 
+in securing a 2019 U.S. patent. Similarly, the Petitioner did not supplement the 
+record with evidence showing the impact, influence, or effect of the patent or any resulting technology, products, or other 
+services developed from the patent. 
+8 See generally 6 USCTS Policy Manual, supra, at 
+). 
+9 The record contains job verification letters from 
+indicating the Petitioner's position as a "Sr. MTS Information 
+Security Eng." 
+10 See indeed.com/career-advice/finding-a-job/security-engineer-vs.security-analyst, accessed on February 13, 2025. 
+11 Id. 
+4 
+Both precedent and case law support this application of 8 C.F.R. § 204.5(h)(3)(ix). See Matter of 
+Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994) ( considering a professional golfer's earnings 
+versus other PGA Tour golfers); see also Skokos v. US. Dept. ofHomeland Sec., 420 F. App'x 712, 
+713-14 (9th Cir. 2011) (finding salary information for those performing lesser duties is not a 
+comparison to others in the field); Crimson v. INS, 934 F. Supp. 965,968 (N.D. Ill. 1996) (considering 
+NHL enforcer's salary versus other NHL enforcers); Muni v. INS, 891 F. Supp. 440, 444-45 (N. D. Ill. 
+1995) ( comparing salary ofNHL defensive player to salary ofother NHL defensemen). Thus, in order 
+to meet this criterion, the Petitioner must show that he received a high salary in relation to others in 
+the field rather than to lower job classifications and pay. Because he did not provide sufficient 
+evidence demonstrating the salaries of other senior member technical staff information security 
+engineers, the Petitioner did not establish he commands a high salary in relation to others in his field. 
+The Petitioner also references one of our non-precedent decisions and claims this decision 
+demonstrates that we have "previously recognized and corrected comparable errors related to job 
+title/job role in the salary criterion." This decision was not published as a precedent and therefore 
+does not bind USCIS officers in future adjudications. See 8 C.F .R. § 103 .3( c ). Moreover, this decision 
+did not conclude that senior security analysts and senior security engineers are the same occupations 
+with similar job responsibilities. 
+For the reasons discussed above, the Petitioner did not show he meets this criterion. 
+III. CONCLUSION 
+The Petitioner did not establish eligibility for any of the categories of evidence discussed above. 
+Because the Petitioner cannot fulfill the initial evidentiary requirement of three under 8 C.F.R. 
+§ 204.5(h)(3 ), we need not decide on the Director's favorable conclusions for the judging and scholarly 
+articles criteria. We also need not provide the type of final merits determination referenced in 
+Kazarian, 596 F.3d at 1119-20. Accordingly, we reserve these issues. 12 
+Nevertheless, we have reviewed the record in the aggregate, concluding it does not support a 
+conclusion that the Petitioner has established the acclaim and recognition required for the classification 
+sought. The Petitioner seeks a highly restrictive visa classification, intended for individuals already 
+at the top of their respective fields, rather than those progressing toward the top. Price, 20 I&N Dec. 
+at 954 ( concluding that even major league level athletes do not automatically meet the statutory 
+standards for classification as an individual of "extraordinary ability,"); Visinscaia, 4 F. Supp. 3d at 
+131 (internal quotation marks omitted) (finding that the extraordinary ability designation is "extremely 
+restrictive by design,"); Hamal v. Dep 't of Homeland Sec. (Hamal II), No. 19-cv-2534, 2021 WL 
+2338316, at *5 (D.D.C. June 8, 2021), aff'd, 2023 WL 1156801 (D.C. Cir. Jan. 31, 2023) (determining 
+that EB-1 visas are "reserved for a very small percentage ofprospective immigrants"). See also Hamal 
+v. Dep 't ofHomeland Sec. (Hamal I), No. 19-cv-2534, 2020 WL 2934954, at *1 (D.D.C. June 3, 2020) 
+( citing Kazarian, 596 at 1122 (upholding denial of petition of a published theoretical physicist 
+specializing in non-Einsteinian theories of gravitation) (stating that "[c]ourts have found that even 
+highly accomplished individuals fail to win this designation")); Lee v. Ziglar, 237 F. Supp. 2d 914, 
+12 See INS v. Bagamasbad. 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies are not required to make "purely 
+advisory findings" on issues that are unnecessary to the ultimate decision). 
+5 
+918 (N.D. Ill. 2002) (finding that "arguably one ofthe most famous baseball players in Korean history" 
+did not qualify for visa as a baseball coach). Here, the Petitioner has not shown the significance of his 
+work is indicative of the required sustained national or international acclaim or it is consistent with a 
+"career of acclaimed work in the field" as contemplated by Congress. H.R. Rep. No. 101-723, 59 
+(Sept. 19, 1990); see also section 203(b )(1 )(A) of the Act. Moreover, the record does not otherwise 
+demonstrate the Petitioner has garnered national or international acclaim in the field, and he is one of 
+the small percentage who has risen to the very top of the field of endeavor. See section 203(b )(1 )(A) 
+of the Act and 8 C.F.R. § 204.5(h)(2). The record does not contain sufficient evidence establishing 
+the Petitioner among the upper echelon in his field. 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: 
+The appeal is dismissed. 
+6 

@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+embeddings.npy
+embeddings_chunked.npy 

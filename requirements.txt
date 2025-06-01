@@ -1,0 +1,4 @@
+PyMuPDF==1.23.8
+chromadb==0.4.24
+sentence-transformers==2.6.1
+tqdm==4.66.4 

@@ -1,0 +1,182 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: FEB. 28, 2025 
+In Re: 37223991 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a developer of semiconductors and related technology, seeks to permanently employ 
+the Beneficiary as a senior staff engineer. 
+The company requests his classification under the 
+employment-based, first-preference (EB-1) immigrant visa category as an alien with "extraordinary 
+ability" in the fields of electronics packaging and semiconductor thermal management. 
+See 
+Immigration and Nationality Act (the Act) section 203(b )(1 )(A), 8 U.S.C. § ll 53(b)(1 )(A). Petitioners 
+sponsoring beneficiaries for U.S. permanent residence in this category must demonstrate that the aliens 
+have "sustained national or international acclaim" and extensively document recognition of their 
+achievements in their fields. Section 203(b)(l)(A)(i) of the Act. 
+The Director of the Nebraska Service Center denied the petition. The Director concluded that the 
+Petitioner met two of ten initial evidentiary requirements - one less than needed for a final merits 
+determination. On appeal, the company contends that, in finding no evidence that the Beneficiary' s 
+contributions in his field had "major significance," the Director misapplied law and facts. 
+The Petitioner bears the burden of demonstrating eligibility for the requested benefit by a 
+preponderance of the evidence. Matter of Chawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). 
+Exercising de novo appellate review, see Matter of Christa 's, Inc. , 26 I&N Dec. 537, 537 n.2 (AAO 
+2015), we find insufficient evidence that the Beneficiary's contributions in his field had major 
+significance. We will therefore dismiss the appeal. 
+I. LAW 
+A beneficiary qualifies as an alien with extraordinary ability if a petitioner demonstrates that they: 
+• 
+Have "extraordinary ability in the sciences, arts, education, business, or athletics;" 
+• 
+Seek to continue work in their field of expertise in the United States; and 
+• 
+Through their work, substantially benefit the country prospectively. 
+Section 203(b )(1 )(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means expertise commensurate with "one of that small percentage 
+who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). Unless a beneficiary 
+received "a major, international recognized award," a petitioner must satisfy at least three often lesser 
+evidentiary criteria. 8 C.F.R. § 204.5(h)(3). 1 
+If a petitioner meets either evidentiary standard and the requirements at section 203(b )(1 )(A)(ii), (iii) 
+of the Act, USCIS must then make a final merits determination. To merit approval, the record- as a 
+whole - must establish a beneficiary's "sustained national or international acclaim" and recognized 
+achievements placing them among the small percentage at their field's very top. See Kazarian v. 
+USCIS, 593 F.3d 1115, 1120 (9th Cir. 2010); see generally 6 USCIS Policy Manual F.2(B), 
+www.uscis.gov/policy-manual. 
+II. ANALYSIS 
+A. The Beneficiary and His Fields 
+The record shows that the Beneficiary, an Indian native and citizen, earned bachelor's and master's 
+degrees in mechanical engineering. He worked five years for an Indian company as a mechanical 
+design engineer before furthering his education in the United States. 
+The Beneficiary earned a doctoral degree in mechanical engineering from a U.S. university in May 
+2021. The Petitioner has since employed him in the United States as a packaging engineer. In this 
+role, he participates in research projects and has developed a simulations analysis toolkit that has 
+helped overcome delamination issues in the Petitioner's products by quantifying risk and 
+implementing design changes. Also, to overcome thermal challenges in data centers, the Beneficiary 
+has studied material compatibility of electronics packaging for immersion cooling technology. The 
+Petitioner has offered him a permanent, full-time job in the United States. 
+The record does not indicate - nor does the Petitioner claim - the Beneficiary's receipt of a major 
+internationally recognized award. The company therefore has to meet at least three of the ten 
+evidentiary criteria at 8 C.F.R. § 204.5(h)(3)(i-x). 
+The record supports the Director's findings that the Petitioner submitted evidence ofthe Beneficiary's: 
+• 
+Participation as a judge of others' work in his field; and 
+• 
+Authorship of scholarly articles in his field. 
+See 8 C.F.R. § 204.5(h)(3)(iv), (vi). 
+We will now review the Director's finding that the Petitioner did not submit evidence that the 
+Beneficiary has made contributions of major significance in his field. See 8 C.F.R. § 204.5(h)(3)(v). 
+1 If an evidentiary criterion does not "readily apply" to a beneficiary's occupation, a petitioner may submit "comparable 
+evidence" to establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+2 
+B. Original Contributions of Major Significance 
+This criterion requires "[e]vidence of the alien's original scientific, scholarly, artistic, athletic, or 
+business-related contributions of major significance in the field." 8 C.F.R. § 204.5(h)(3)(v). The 
+company's evidence must objectively meet the parameters of this regulatory requirement. 
+See 
+generally 6 USCIS Policy Manual F.2(B). 
+When adjudicating this criterion, USCIS first determines whether a petitioner has demonstrated that a 
+beneficiary made original contributions in their field. See 6 USCIS Policy Manual F .2(B)(l ), Criterion 
+5. If so, the Agency then determines whether those contributions have major significance in the field. 
+Id. For a researcher like the Beneficiary, evidence oftheir work's significance may include "published 
+research that has provoked widespread commentary on its importance from others working in the field, 
+and documentation that [ a beneficiary's research] has been highly cited relative to others' work in that 
+field." Id.; see also Visinscaia v. Beers, 4 F.Supp.3d 126, 134 (D.D.C. 2013)(citation omitted)("[T]he 
+regulatory requirement that the petitioner demonstrate the 'major significance' of any original 
+contributions means that the [alien]'s work must significantly affect [their] field of endeavor.") 
+The Petitioner submitted 13 letters from experts in the electronics packaging and semiconductor 
+thermal management fields and proof ofthe Beneficiary's authorship or co-authorship of 14 published 
+articles in the fields since 2019. The company also submitted evidence that he has reviewed peers' 
+articles in the fields for professional journals that published them. 
+The Director found that the Beneficiary's articles reflect original contributions to his field. But the 
+Director concluded that the evidence insufficiently demonstrates the purported major significance of 
+his contributions. 
+1. The Number of Citations 
+A printout from a scholarly literature website indicates that, at the time of the petition's filing, the 
+Beneficiary's published articles had generated 170 citations. See 8 C.F.R. § 103.2(b)(l) (requiring a 
+petitioner to demonstrate eligibility "at the time of filing the benefit request"). The Director found 
+that the website showed that others in the electronic packaging field had each written more than 450 
+published articles generating more than 11,000 citations. 2 The Director concluded that, while expert 
+letters favorably discuss the Beneficiary's citations, the Petitioner has not demonstrated that they 
+reflect a high amount relative to others in the field. 
+On appeal, the Petitioner submits evidence of other researchers who it says have had major 
+significance on the field yet have generated fewer citations than the Beneficiary. Before the decision's 
+issuance, however, the Director sent a request for evidence (RFE) inviting the company to submit 
+"objective evidence that the beneficiary's publications have garnered a significant number of 
+citations." The company has not claimed or demonstrated that its additional evidence was unavailable 
+at the time of the RFE's issuance. We therefore decline to consider the new evidence on appeal. See 
+8 C.F.R. § 103.2(b)(l l) (requiring the submission of all requested evidence together at one time); 
+2 Also, an expert who provided a letter in support of this petition stated that he has authored more than 300 published 
+articles in the field. 
+3 
+Matter of Furtado, 28 I&N Dec. 794, 801-02 (BIA 2024) ( declining to consider new evidence on 
+appeal where a petitioner received notice of the required evidence and a reasonable opportunity to 
+provide it before the filing's denial). 
+Thus, as the Director found, the Petitioner's evidence does not show that the Beneficiary is highly 
+cited relative to other researchers in his field. Based on his number ofcitations, the Petitioner therefore 
+has not submitted evidence that his contributions had major significance in his field. 
+2. 
+The Expert Opinion Letters 
+We agree with the Petitioner that the Director undervalued expert opinion letters that the company 
+submitted. In her decision, the Director discounted the letters because the Beneficiary solicited them 
+in support of this petition. The Director stated that the Beneficiary's "original contributions in the 
+field must be demonstrated by preexisting, independent, and corroborating evidence." 
+As the Petitioner argues, however, there is no blanket rule that solicited expert letters warrant less 
+evidentiary weight than preexisting evidence. USCIS policy states: 
+Detailed letters from experts in the field explaining the nature and significance of the 
+person's contribution may also provide valuable context for evaluating the claimed 
+original contributions of major significance, particularly when the record includes 
+documentation corroborating the claimed significance. 
+6 USCIS Policy Manual F.2(B)(l), Criterion 5; see also Rubin v. Miller, 478 F.Supp.3d 499, 504 
+(S.D.N.Y. 2020) ("[T]he [USCIS] Decision Letter does not reasonably explain why evidence in 
+existence prior to the preparation of the Petition carries more weight than new materials, specifically 
+opinion letters.") 
+But, even affording the expert opinion letters the full evidentiary weight due them, they do not 
+sufficiently establish the claimed major significance of the Beneficiary's contributions in the field. 
+The letters discuss his contributions. But the letters do not provide "specific information relating to 
+the[ir] impact ... on the field as a whole." Visinscaia, 4 F.Supp.3d at 134; see generally 6 USCIS 
+Policy Manual F.2(B)(l), Criterion 5 (requiring letters to "specifically describe ... [contributions'] 
+significance to the field"). 
+For example, a letter from a professor emerita of technology and economics at a Hungarian university 
+touts the importance of the Beneficiary's research on thermal management of electronics, stating: 
+"This area has been crucial for reviewing and studying electronics for lifetime reliability and energy 
+consumption for critical datacenters that feed next-generation computerized and AI [artificial 
+intelligence] electrical engineering research and technologies." 
+Her letter also states: 
+"[The 
+Beneficiary]' s work to investigate the impact of energy immersion cooling is required for advancing 
+the benefits ofdatacenters that are the repositories for AI technologies." But the letter does not explain 
+how the Beneficiary's specific research has advanced these fields, whether any electronic devices or 
+data centers have successfully implemented his ideas, or whether his work unlocked doors to other 
+important applications or studies in the fields. See Visinscaia, 4 F.Supp.3d at 134 (upholding USCIS' 
+4 
+rejection of letters lacking "specific evidence that [the alien ]'s techniques were being used by others 
+in the field"). 
+Similarly, a fellow emeritus of a U.S. technology company praises the Beneficiary's research on the 
+impact of aging mechanical properties of thermally conductive gap fillers. His letter states: "[The 
+Beneficiary]' s findings help in predicting the lifespan and performance of these materials, which is 
+vital for maintaining the integrity and efficiency ofelectronic devices over time." The letter also states 
+that "[h ]is work has helped to improve electronics packaging and semiconductor thermal 
+management." But, like the previous letter, this letter does not explain how the Beneficiary's specific 
+research has advanced the field or provide examples of applications that have successfully adopted his 
+ideas. 
+Some of the experts also praise the Beneficiary's review of others' work in the field. For example, 
+the professor emerita from the Hungarian university stated: "[The Beneficiary]' s involvements in 
+these professional activities have advanced the electronics packaging and thermal management of the 
+electronics research community worldwide." 
+But these letters also do not explain how the 
+Beneficiary's specific work has advanced the fields. 
+To the extent the Petitioner contends that the Beneficiary has made original contributions of major 
+significance in the field through his employment with the company, it has not shown the significance 
+of this work beyond the company and its customers. See, e.g, Gadhave v. Thompson, No. 3:21-CV-
+2938-D, 2023 WL 6931334, at *4 (N.D. Tex. Oct. 19, 2023) ( citations omitted) ("Courts have 
+routinely affirmed agency decisions that held§ 204.5(h)(3)(v) 'requires substantial influence beyond 
+one's employers, clients, or customers."') 
+III. CONCLUSION 
+The Petitioner has not submitted evidence that the Beneficiary's contributions had major significance 
+in his field. We will therefore affirm the petition's denial. 
+ORDER: 
+The appeal is dismissed. 
+5 
