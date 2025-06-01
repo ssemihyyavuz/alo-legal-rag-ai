@@ -18,7 +18,7 @@ The system ingests, processes, and stores legal documents, then uses OpenAI LLMs
   - Handle both HTML and PDF links.
 - **Polite Crawling:**
   - Respect `robots.txt` and website terms of use.
-  - Implement rate limiting (e.g., 1 request/second) to avoid overloading the server.
+  - Implement rate limiting (e.g., 1 request/10second) to avoid overloading the server.
 
 ### 2. Processing & Structuring
 - **PDF/HTML Parsing:**
